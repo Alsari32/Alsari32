@@ -6,6 +6,7 @@ Skills
 Languages: Python, Java, C, C++, C#, SQL
 Web: HTML, CSS, PHP, Symfony, APIs
 Tools: Git, Docker, VS Code, Bruno
+
 Projects
 
 WeatherLang (C++) A programming language with weather-themed syntax (temp, wind, forecast). A simulated CPU, memory, input, and output system parses and runs each line of code. Uses inheritance, polymorphism, templates, and operator overloading.
