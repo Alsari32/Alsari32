@@ -1,18 +1,20 @@
-Hi, I'm Muutasem 👋
-I'm a Computer Science student at Henry Ford College passionate about web development and software engineering. I love building things from scratch — from full-stack web apps to a custom programming language written in C++.
-I'm currently seeking a software engineering internship where I can contribute, grow, and work on real-world projects.
+Mutasem Alsari
 
-🛠️ Tech Stack
-Languages: Python, C++, C, SQL
-Web Development: HTML, CSS, Flask
-Tools: Git, VS Code, Linux
+Computer Science student in Dearborn, MI. I have an associate degree in Computer Science from Henry Ford College (December 2026) and I am finishing my bachelor's degree in Computer Science at Wayne State University (August 2028). I am looking for a software engineering internship.
 
-🚀 Featured Projects
-🌩️ WeatherLang
-A custom programming language built in C++ with a weather-themed syntax. Features a full CPU, Memory, Input, and Output system working together to parse and execute code. Demonstrates OOP, inheritance, polymorphism, templates, and operator overloading.
-🌐 Portfolio Website
-A personal portfolio website built with HTML and CSS, showcasing my projects, skills, and contact information.
-🧪 Flask Web Application
-A full-stack dynamic web app built with Python and Flask, featuring routing, templates, and a clean responsive UI.
-🗄️ SQL Database Project
-A relational database project focused on schema design, normalization, and writing queries using SELECT, JOIN, WHERE, and GROUP BY.
+Skills
+Languages: Python, Java, C, C++, C#, SQL
+Web: HTML, CSS, PHP, Symfony, APIs
+Tools: Git, Docker, VS Code, Bruno
+Projects
+
+WeatherLang (C++) A programming language with weather-themed syntax (temp, wind, forecast). A simulated CPU, memory, input, and output system parses and runs each line of code. Uses inheritance, polymorphism, templates, and operator overloading.
+
+Great Lakes Arbor and Nursery System (PHP, Symfony, Docker) A 15-week team project: a customer ordering website and mobile app that share one database. I was a backend team member. I built the API endpoints and the database tables, and tested requests in Bruno.
+
+Web Development ePortfolio (HTML, CSS, PHP, JavaScript) Portfolio site from my web development course, with PHP and JavaScript examples.
+
+Contact
+
+LinkedIn
+https://www.linkedin.com/in/mutasem-alsari/
